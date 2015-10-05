@@ -6,3 +6,6 @@
 2. Run the Installer.
 3. For the most part, stick with the defaults, except when you get to **Adjusting your PATH environment**, select **Run Git from the Windows Command Prompt**.
 4. When you get to **Configuring the line ending conversions** make sure that is set on **Checkout Windows-style line endings, commit unix style line endings**.
+5. When you get to **Configuring the terminal editor to use with Git Bash** select **Use Windows' default console window**.
+6. Keep hitting **Next** and finally hit **Finish** after the program installs.
+7. You can now use Git on Windows!
