@@ -1,6 +1,6 @@
 # Git on Windows
 
-*A short tutorial on how I set up Git on Windows Computers*
+*A short tutorial on how I set up Git on Windows Computers for SWOSU*
 
 1. Go to https://git-scm.com/download/win and download the latest copy of Git for Windows. (The download will start automatically).
 2. Run the Installer.
